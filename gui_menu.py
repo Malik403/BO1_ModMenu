@@ -182,7 +182,7 @@ try:
 except FileNotFoundError:
     #Text Labels
     main.Label("                                                                                                                       BO1 GUI MENU!", 140, 0, 0, "black", "white")
-    main.Label("Change Label Color", 18, 560, 15, "black", "white")
+    main.Label("Change Color", 18, 560, 15, "black", "white")
     main.Label("BackGround", 11, 500, 50, "black", "white")
     main.Label("ForeGround", 11, 650, 50, "black", "white")
     
