@@ -21,22 +21,36 @@ A class I made for Tkinter. This class includes the Labels and Buttons.
 
 # Mods
 **Points:**
+Gives the user unlimited points.
 
 **Ammo:**
+Gives the user unlimited ammo.
 
 **Grenades:**
+Gives the user unlimited grenades.
 
 **Juggernaut:**
+Gives the user unlimited health.
 
 **Noclip:**
+On: Turns flying on
+Off: Turns flying off
 
 **Change Name:**
+Changes the users name.
 
 **Change Headshot Score:**
+Changes the users Headshot Score.
 
 **Change Kill Score:**
+Changes the users Kill Score.
 
 **Change Color:**
+*Background:*
+Changes the background color of the GUI
+
+*Foreground:*
+Changes the foreground color of the GUI.
 
 # Demo:
 ![](https://github.com/Malik403/BO1_ModMenu/blob/main/Animation.gif)
