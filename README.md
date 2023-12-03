@@ -1,9 +1,6 @@
 # BO1_ModMenu
 Tkinter GUI Mod Menu for a game called "Call of Duty Black Ops".
 
-# Requirements - (Requirements file added)
-Pymem==1.13.0
-
 # Information on Files
 ### GUI_Menu: 
 
