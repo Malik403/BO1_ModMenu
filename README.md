@@ -46,6 +46,7 @@ Changes the users Headshot Score.
 Changes the users Kill Score.
 
 **Change Color:**
+
 *Background:*
 Changes the background color of the GUI
 
