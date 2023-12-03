@@ -20,7 +20,7 @@ This file is to connect the game to the mod menu. This is the file you will run.
 A class I made for Tkinter. This class includes the Labels and Buttons.
 
 ### Demo:
-[](https://github.com/Malik403/BO1_ModMenu/blob/main/Animation.gif)
+![](https://github.com/Malik403/BO1_ModMenu/blob/main/Animation.gif)
 
 
 
