@@ -19,31 +19,40 @@ This file is to connect the game to the mod menu. This is the file you will run.
 ### Tkinter Class:
 A class I made for Tkinter. This class includes the Labels and Buttons.
 
+
 # Mods
 **Points:**
 Gives the user unlimited points.
 
+
 **Ammo:**
 Gives the user unlimited ammo.
+
 
 **Grenades:**
 Gives the user unlimited grenades.
 
+
 **Juggernaut:**
 Gives the user unlimited health.
+
 
 **Noclip:**
 On: Turns flying on
 Off: Turns flying off
 
+
 **Change Name:**
 Changes the users name.
+
 
 **Change Headshot Score:**
 Changes the users Headshot Score.
 
+
 **Change Kill Score:**
 Changes the users Kill Score.
+
 
 **Change Color:**
 
